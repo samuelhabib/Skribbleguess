@@ -1,0 +1,29 @@
+.drawing-users{
+    display: flex;
+    flex-direction: column;
+    height: 97%;
+    margin-top: 10px;
+    background: rgba(255, 255, 255, 0.7);
+}
+
+.current-user-users{
+    color: purple;
+    background: rgba(255, 255, 255, 1);
+}
+
+.users-title{
+    border-bottom: 3px solid black;
+}
+
+.users-scroll{
+    overflow: auto;
+    flex: auto;
+}
+
+.drawing-users-column{
+    height: 100%;
+}
+
+.font-user{
+    font-size: x-large;
+}
